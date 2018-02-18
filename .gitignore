@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+#ignore css files under src folder
+src/**.css
