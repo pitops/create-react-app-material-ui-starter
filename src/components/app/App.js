@@ -7,7 +7,7 @@ import Dialog, {
   DialogActions
 } from 'material-ui/Dialog'
 import Typography from 'material-ui/Typography'
-import withRoot from '../withRoot'
+import withRoot from '../../withRoot'
 import classes from './app.scss'
 
 class App extends Component {
