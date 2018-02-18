@@ -17,3 +17,7 @@ Run
 ```
 npm run start OR yarn start
 ```
+
+NOTES
+
+By default this was set to run on PORT 13339, you can change that in the **.env** file
