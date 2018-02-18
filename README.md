@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a boilerplate created using create-react-app, which was then ejected and added support for **CSS Modules**, **SASS** (.scss format), **MaterialUI** framework and **linting** during commit using a precommit hook.
+This is a boilerplate created using create-react-app, which was then ejected and added support for **CSS Modules**, **SASS** (.scss format), **MaterialUI** framework,**linting** during commit using a precommit hook and advanced inline-styles support using **Radium**
 
 ### Usage 
 
