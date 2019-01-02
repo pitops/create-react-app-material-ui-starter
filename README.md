@@ -1,5 +1,7 @@
 # A ReactJS starter boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pitops/create-react-app-material-ui-starter.svg)](https://greenkeeper.io/)
+
 ### Description
 
 This is a boilerplate created using create-react-app, which was then ejected and added support for **CSS Modules**, **SASS** (.scss format), **MaterialUI** framework,**linting** during commit using a precommit hook and advanced inline-styles support using **Radium**
